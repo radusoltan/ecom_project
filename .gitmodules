@@ -1,0 +1,6 @@
+[submodule "front"]
+	path = front
+	url = git@github.com:radusoltan/ecom_front.git
+[submodule "api"]
+	path = api
+	url = git@github.com:radusoltan/ecom_api.git
